@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:CairoICT2020.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "MagixEvent">
+      <FileRef
+         location = "group:SpeakerFeature/SpeakerFeature.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ExhibitorsFeature/ExhibitorsFeature.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:SponsorFeature/SponsorFeature.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Gallery/Gallery.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
